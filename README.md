@@ -1,2 +1,1 @@
-- This account was created for the CS50 Course!
-- High schooler at the current moment.
+
